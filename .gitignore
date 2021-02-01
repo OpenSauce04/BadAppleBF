@@ -1,0 +1,8 @@
+.vscode/
+reference/image
+reference/text
+__pycache__/
+img.txt
+BadApple.bf
+interpreter/
+*.pyc

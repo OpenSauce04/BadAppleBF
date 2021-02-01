@@ -1,0 +1,5 @@
+mcname="MC"
+sayoriname="Sayori"
+yuriname="Yuri"
+natsukiname = "Natsuki"
+monikaname = "Monika"
