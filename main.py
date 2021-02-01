@@ -1,7 +1,8 @@
 import init
 import glob
 from functions.printtext import printtext
-from functions.preimage import preimage
+from functions.printfile import printfile
+from functions.storechar import storechar
 from functions.writeraw import writeraw
 from functions.flushcode import flushcode
 
@@ -13,7 +14,14 @@ except:
 print("Compiling to './BadApple.bf'...")
 
 printtext(chr(27)+"[2J") # Clear screen
-flushcode()
+#storechar(" ")
+#writeraw(">")
+#storechar("@") TODO: optimize image storage using these
+#writeraw("<")
+#flushcode()
+for x in range(1,3289):
+  printfile("processedframes/"+str(x)+".txt")
+  flushcode()
 glob.f.close()
 
 print("done.")
