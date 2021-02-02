@@ -19,9 +19,13 @@ printtext(chr(27)+"[2J") # Clear screen
 #storechar("@") TODO: optimize image storage using these
 #writeraw("<")
 #flushcode()
-for x in range(1,3289):
+for x in range(1,3288):
   printfile("processedframes/"+str(x)+".txt")
   flushcode()
+printtext(chr(27)+"[f")
+printtext("Demo Written by OpenSauce")
+printtext("Thanks for watching!")
+flushcode()
 glob.f.close()
 
 print("done.")
