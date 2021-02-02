@@ -1,6 +1,6 @@
 from PIL import Image
 
-ASCII_CHARS = [' ',' ',' ',' ',' ',' ','@','@','@','@','@']
+ASCII_CHARS = [' ',' ',' ',' ',' ',' ','@','@','@','@','@','@']
 
 
 '''
@@ -8,7 +8,7 @@ method resize():
     - takes as parameters the image, and the final width
     - resizes the image into the final width while maintaining aspect ratio
 '''
-def resize(image, new_width=48):
+def resize(image, new_width=60):
     (old_width, old_height) = image.size
     aspect_ratio = float(old_height)/float(old_width*2)
     new_height = int(aspect_ratio * new_width)
@@ -36,7 +36,7 @@ def modify(image, buckets=25):
 method do():
     - does all the work by calling all the above functions
 '''
-def do(image, new_width=48):
+def do(image, new_width=60):
     image = resize(image)
     image = grayscalify(image)
 
