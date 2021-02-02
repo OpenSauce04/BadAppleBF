@@ -23,8 +23,8 @@ for x in range(1,3288):
   printfile("processedframes/"+str(x)+".txt")
   flushcode()
 printtext(chr(27)+"[f") # Reset cursor
-printtext("Demo Written by OpenSauce")
-printtext("Thanks for watching!")
+printtext("Demo Written by OpenSauce\n")
+printtext("Thanks for watching!\n")
 printtext(chr(27)+"[?25h") # Show cursor
 flushcode()
 glob.f.close()
