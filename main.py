@@ -1,7 +1,7 @@
 import init
 import glob
 from functions.printtext import printtext
-from functions.printfile import printfile
+from functions.printframe import printframe
 from functions.storechar import storechar
 from functions.writeraw import writeraw
 from functions.flushcode import flushcode
@@ -20,7 +20,7 @@ printtext(chr(27)+"[2J") # Clear screen
 #writeraw("<")
 #flushcode()
 for x in range(1,3288):
-  printfile("processedframes/"+str(x)+".txt")
+  printframe("processedframes/"+str(x)+".txt")
   flushcode()
 printtext(chr(27)+"[f") # Reset cursor
 printtext("Demo Written by OpenSauce\n")
