@@ -20,8 +20,10 @@ printtext(chr(27)+"[2J") # Clear screen
 #writeraw("<")
 #flushcode()
 for x in range(1,3288):
+  print("Frame "+str(x)+"...", end="")
   printframe("processedframes/"+str(x)+".txt")
   flushcode()
+  print("done")
 printtext(chr(27)+"[f") # Reset cursor
 printtext("Demo Written by OpenSauce\n")
 printtext("Thanks for watching!\n")
