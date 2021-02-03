@@ -1,3 +1,4 @@
+from functions.printchar import printchar
 from functions.printtext import printtext
 from functions.flushcode import flushcode
 from functions.debug import debug
@@ -8,6 +9,12 @@ def printframe(path):
     print("ERROR: file not found: "+path)
   f = open(path, "r")
   printtext(chr(27)+"[f")
-  printtext(f.read())
+  for c in f.read():
+    if c=='b':
+      printchar(' ')
+    elif c=='w':
+      printtext("\xE2\x96\x88")
+    else:
+      printchar(c)
   f.close
   flushcode()

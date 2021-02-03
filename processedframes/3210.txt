@@ -1,22 +1,22 @@
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                    @@@                      
-@@@@@@@@@@@@@@@               @@@@@@@@@@@                   
-@@@@@@@@@@@@@@@               @@@@@@@@@@@@                  
- @@@@@@@@@@@@@@                    @@@@@@@@@                
-  @@@@@@@@@@@@@                    @@@@@ @@                 
-  @@@@@@@@@@@@@                    @@@@@@@@                 
- @@@@@@@@@@@@@@                   @@ @@@@@@@@@@@@@@@@@@     
-@@@@@@@@@@@@@@@      @@@@@@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@   
-@@@@@@@@@@@@@@@                   @@@@@@@@@@@@@@@@@@@@@@@@  
-@@@@@@@@@@@@@@@                          @           @@     
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
-@@@@@@@@@@@@@@@                                             
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbwwwbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbwwwwwwwwwwwbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbwwwwwwwwwwwwbbbbbbbbbbbbbbbbbb
+bwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbwwwwwwwwwbbbbbbbbbbbbbbbb
+bbwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbwwwwwbwwbbbbbbbbbbbbbbbbb
+bbwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbwwwwwwwwbbbbbbbbbbbbbbbbb
+bwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbwwbwwwwwwwwwwwwwwwwwwbbbbb
+wwwwwwwwwwwwwwwbbbbbbwwwwwwwbwwwwwwwwwwwwwwwwwwwwwwwwwwwwbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbwwwwwwwwwwwwwwwwwwwwwwwwbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbwbbbbbbbbbbbwwbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+wwwwwwwwwwwwwwwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

@@ -1,6 +1,6 @@
 from PIL import Image
 
-ASCII_CHARS = [' ',' ',' ',' ',' ',' ','@','@','@','@','@','@']
+ASCII_CHARS = ['b','b','b','b','b','b','w','w','w','w','w','w']
 
 
 '''
