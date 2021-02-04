@@ -24,7 +24,7 @@ storechar('\x96'); writeraw(">")
 storechar('\x88'); writeraw("[<]")
 # end
 
-for x in range(1,3288):
+for x in range(1,6575):
   print("Frame "+str(x)+"...", end="")
   printframe("processedframes/"+str(x)+".txt")
   flushcode()
