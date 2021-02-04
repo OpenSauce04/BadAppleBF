@@ -1,3 +1,5 @@
+import glob
+from functions.writeraw import writeraw
 from functions.printchar import printchar
 from functions.printtext import printtext
 from functions.flushcode import flushcode
@@ -9,12 +11,15 @@ def printframe(path):
     print("ERROR: file not found: "+path)
   f = open(path, "r")
   printtext(chr(27)+"[f")
+  writeraw("[-]")
   for c in f.read():
     if c=='b':
-      printchar(' ')
+      writeraw("<.>")
     elif c=='w':
-      printtext("\xE2\x96\x88")
+      writeraw(">[.>]<[<]")
     else:
+      glob.bitcounter=0;
       printchar(c)
+      writeraw("[-]")
   f.close
   flushcode()

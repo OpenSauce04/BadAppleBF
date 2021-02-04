@@ -15,7 +15,16 @@ print("Compiling to './BadApple.bf'...")
 printtext(chr(27)+"[?25l") # Hide cursor
 printtext(chr(27)+"[2J") # Clear screen
 printtext(chr(27)+"[1m") # Enable bold colours
-for x in range(1,100): #3288
+
+# Initialse frame drawing
+storechar(' ')
+writeraw(">>")
+storechar('\xE2'); writeraw(">")
+storechar('\x96'); writeraw(">")
+storechar('\x88'); writeraw("[<]")
+# end
+
+for x in range(1,3288):
   print("Frame "+str(x)+"...", end="")
   printframe("processedframes/"+str(x)+".txt")
   flushcode()
