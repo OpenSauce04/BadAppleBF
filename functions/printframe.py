@@ -15,6 +15,7 @@ def printframe(path):
   for c in f.read():
     if c=='b':
       writeraw("<.>")
+      writeraw("++++++[-]") #Idle
     elif c=='w':
       writeraw(">[.>]<[<]")
     else:
